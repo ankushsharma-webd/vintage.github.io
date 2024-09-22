@@ -1,0 +1,195 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main .box{
+    height: 80vh;
+    width: 100%;
+background-color: rgb(19, 29, 61);
+position: relative;
+
+}
+
+
+nav {  
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;
+    position: relative;
+   width: 100%;
+   
+   position: relative;
+    margin:auto;
+    font-size:smaller;
+color: rgb(26, 40, 95);
+.vin{
+    margin-top: 20px;
+    margin-right: 13px;
+    width: 16px;
+    margin-left: 0px;
+    
+    
+}
+.sr{
+    position: relative;
+     background: transparent;
+     border-width: 2px;
+
+     border-color:   rgb(10, 17, 43);
+     width: 250px;
+     height: 40px;
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 17px;
+     
+     margin-top: 13px;
+     border:1px solid rgb(10, 17, 43);
+border-bottom-left-radius: 5px;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px ;
+border-bottom-right-radius:5px ;
+float: left;
+     opacity: 95%;
+    }
+.srch{
+    position: relative;
+    float: left;
+    background-color: rgb(26, 40, 95);
+    border-width: 1px;
+    border-color:  rgb(0, 0, 0);
+    width: 154px;
+    height: 44px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: beige;
+    border-top-right-radius: 5px ;
+    border-bottom-right-radius:5px ;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    margin-top: 13px;
+    opacity: 100%;
+
+}
+.srch :focus{position: relative;
+    outline: none;
+}
+ .sr :focus{
+    outline: none;position: relative;
+ }
+
+}
+ul{
+    display: flex;
+    justify-content: center ;
+    align-items: center;position: relative;
+    margin-top: 18px;
+}
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 0px;position: relative;
+    font-size: 19px;
+    align-self: baseline;
+
+}
+ul li a{
+    text-decoration: none;
+    color: rgb(26, 40, 95) ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: 0.2s ease-in-out;
+
+}
+
+ul li a:hover{
+    color:brown;
+}
+
+.cars{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px 70px;
+    position: relative;
+    background-color: rgb(10, 21, 49);
+    position: relative;
+    color: rgb(255, 255, 255);
+    
+}
+.cars2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px 70px;position: relative;
+    position: relative;
+    background-color: rgb(10, 21, 49);
+ 
+    color: rgb(255, 255, 255);
+}
+.Click{
+    color: rgb(76, 200, 86);position: relative;
+}
+
+.lancer{
+    color:  rgb(76, 200, 86);position: relative;
+}
+.contessa{
+    color:  rgb(76, 200, 86);
+}
+.maruti{
+    color:  rgb(76, 200, 86);
+}
+.pal{
+    color:  rgb(76, 200, 86);
+
+}
+.padm{
+    color:  rgb(76, 200, 86);
+}
+
+.qut{
+    background-color:rgb(67, 20, 20);
+    color: rgb(255, 255, 255);
+    display: flex;position: relative;
+    justify-content: center;
+}
+.iconn{
+    background-color:  hsl(0, 20%, 95%);
+    display: flex;position: relative;
+    justify-content: flex-end;
+    
+}
+.iconn a{position: relative;
+text-decoration: none;
+color: rgb(255, 255, 255);
+}
+.iconn ion-icon{
+    color:  rgb(26, 40, 95);position: relative;
+    font-size: 30px;
+    padding: 16px 14px;
+   
+}
+.iconn ion-icon:hover{
+    color: brown;
+   
+}
+.bot{
+    background-color: hsl(0, 20%, 95%);
+    justify-content: center;
+display: flex;position: relative;
+
+}
+.res{
+    margin-left: 70;
+    color:  rgb(26, 40, 95);position: relative;
+}
+.all{
+    display: flex;position: relative;
+    flex-direction: row;
+    justify-content: center;
+    color:  rgb(26, 40, 95);
+}
+
+
+
+
+
+
